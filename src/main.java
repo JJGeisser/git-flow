@@ -6,5 +6,6 @@ public class main {
         System.out.println(2 + 4);
         System.out.println(2 * 4);
         System.out.println(2 / 4);
+        System.out.println(2 - 4);
     }
 }
