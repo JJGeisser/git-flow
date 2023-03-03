@@ -15,4 +15,8 @@ public class app {
     public int rest (int a, int b, int c) {
         return a - b - c;
     }
+
+    public int sumres (int a, int b, int c) {
+        return a + b -c;
+    }
 }
